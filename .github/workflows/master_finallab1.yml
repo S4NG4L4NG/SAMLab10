@@ -63,4 +63,4 @@ jobs:
           app-name: 'FinalLab1'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AD3E3193851F4CCB9D9C7ED7714168AD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C004B0B642EC4315AF8E66BF9918D027 }}
